@@ -11,7 +11,7 @@
 | Category | Restaurants |
 | Full dataset size | 50 records |
 | Free sample size | 5 records (10.0%) |
-| Last export | 2026-04-07T18:40:18.888274+00:00 |
+| Last export | 2026-04-14T23:55:03.178549+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/top-50-restaurant-category-dominators-in-tennessee-us-sample-342190/releases/download/sample-latest/beamstation_342190_restaurants-us-tn_SAMPLE_DIST.csv) |
 
 ## What is in this sample
