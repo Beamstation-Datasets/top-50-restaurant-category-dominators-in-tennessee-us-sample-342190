@@ -6,7 +6,7 @@
   "config_category": "acquisition",
   "config_description": "--Defensible Leaders-- \nTop 50 ranked high-volume restaurants. \n\nEach venue with massive review volume. The safest bets. \n\nUses State Rank to find the absolute biggest players.",
   "config_name": "Top 50 Restaurant Category Dominators in Tennessee, US",
-  "export_job_id": "6c27ade4-7bc7-4f12-99f4-f473794cf8c4",
+  "export_job_id": "b48ddb21-5713-4bc8-b62c-a23e115314a4",
   "github_org": "Beamstation-Datasets",
   "id_short": 342190,
   "location_name": "Tennessee",
@@ -15,8 +15,8 @@
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/342190/beamstation_342190_restaurants-us-tn_SAMPLE_DIST.csv",
   "sample_pct": 10.0,
   "sample_records": 5,
-  "sample_sha256": "5f75fcb0a4bd631f2b279fd4504068f245761a987a905ed7425460915ae004f0",
-  "sample_size_bytes": 38326,
+  "sample_sha256": "207f83b41cc96991f9d64a31796274fdd1a3b287b706a14fe366563d64debf84",
+  "sample_size_bytes": 36833,
   "total_records": 50,
-  "updated_at": "2026-04-07T18:40:18.888274+00:00"
+  "updated_at": "2026-04-14T23:55:03.178549+00:00"
 }
