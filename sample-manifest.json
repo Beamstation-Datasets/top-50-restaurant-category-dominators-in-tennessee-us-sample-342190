@@ -1,12 +1,12 @@
 {
-  "export_job_id": "b48ddb21-5713-4bc8-b62c-a23e115314a4",
+  "export_job_id": "29b1211e-f8b1-4b9d-86a5-a25965e64a40",
   "id_short": 342190,
-  "published_at": "2026-04-18T07:54:44Z",
+  "published_at": "2026-04-22T07:22:47Z",
   "repo_name": "top-50-restaurant-category-dominators-in-tennessee-us-sample-342190",
   "sample_asset_name": "beamstation_342190_restaurants-us-tn_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/342190/beamstation_342190_restaurants-us-tn_SAMPLE_DIST.csv",
-  "sample_records": 5,
-  "sample_sha256": "207f83b41cc96991f9d64a31796274fdd1a3b287b706a14fe366563d64debf84",
-  "sample_size_bytes": 36833,
-  "total_records": 50
+  "sample_records": 7,
+  "sample_sha256": "6960374f01864fefe3037ebe57c54905453b191a4e108607df6638f0d55a2340",
+  "sample_size_bytes": 42535,
+  "total_records": 72
 }
