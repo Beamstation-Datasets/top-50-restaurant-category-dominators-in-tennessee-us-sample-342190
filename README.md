@@ -1,6 +1,6 @@
 # Top 50 Restaurant Category Dominators in Tennessee, US
 
-> Free BeamStation sample export with 7 rows and masked direct-contact fields.
+> Free BeamStation sample export with 6 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `342190` |
 | Location | Tennessee |
 | Category | Restaurants |
-| Full dataset size | 72 records |
-| Free sample size | 7 records (9.72%) |
-| Last export | 2026-04-22T03:45:19.164426+00:00 |
+| Full dataset size | 68 records |
+| Free sample size | 6 records (8.82%) |
+| Last export | 2026-04-29T06:23:22.195478+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/top-50-restaurant-category-dominators-in-tennessee-us-sample-342190/releases/download/sample-latest/beamstation_342190_restaurants-us-tn_SAMPLE_DIST.csv) |
 
 ## What is in this sample
